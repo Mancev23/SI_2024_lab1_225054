@@ -1,0 +1,24 @@
+mkdir ..
+cd Sl_2024_lab1_225054
+git init
+git remote add origin
+git branch -M master
+nano README.md
+git add README.md
+git commit 
+git add *.java
+git commit 
+git push 
+git branch bug1
+git checkout bug1
+code .
+git add
+git commit
+git push origin master / bug1
+git rebase
+nano logs.txt
+git add
+nano 225054.txt
+git add
+git commit 
+git push
